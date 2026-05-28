@@ -12,6 +12,4 @@ build/
 # OS
 .DS_Store
 Thumbs.db
-# Local sandbox home/cache for tumbling-monkeys sample
-samples/projects/tumbling-monkeys/.home/
-.gitignore
+
